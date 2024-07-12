@@ -2,7 +2,7 @@
 React projects is a collection of projects built on the React library. It showcases various features and functionalities of React, such as hooks, components, state, props, routing, and more. React projects also demonstrate how to use React with other technologies, such as APIs, databases, and frameworks. Whether you are a beginner, an intermediate, or an advanced React developer, React projects can help you learn and practice your React skills.
 
 
-## 🖥️ Tech Stack
+## 🖥️ Mern
 **Frontend:**
 
 ![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
